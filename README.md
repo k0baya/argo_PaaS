@@ -9,6 +9,7 @@
   | UUID         | 否 | de04add9-5c68-8bab-950c-08cd5320df18 | 可在线生成 https://www.uuidgenerator.net/ |
   | WEB_USERNAME | 否 | admin  | 网页和 webssh 的用户名 |
   | WEB_PASSWORD | 否 | password | 网页和 webssh 的密码 |
+  | PORT         | 否 | 3000 | 在某些平台（如Koyeb）使用时需标注端口（不可更改为3000以外的值） |
   
 * 路径（path）
   | 命令 | 说明 |
